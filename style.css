@@ -76,7 +76,7 @@ body {
 .form-background input {
     font-weight: 100;
     font-size: 12px;
-    padding: 4px;
+    padding: 8px;
     width: 100%;
     border-radius: 3px;
     border: 1px solid rgba(0, 0, 0, 0.7);
