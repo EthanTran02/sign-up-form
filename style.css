@@ -10,6 +10,7 @@
 
 
 body {
+    overflow: hidden;
     display: flex;
     font-family: Helvetica;
 }
@@ -108,7 +109,7 @@ body {
 
 
 .form-group {
-    width: 50%;
+    flex: 1;
     padding-right: 50px;
 }
 
